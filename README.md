@@ -11,6 +11,3 @@ This is the course project for *Getting and Cleaning Data*. The functions are fi
 4. Appropriately labels the data set with descriptive variable names.
 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject, and the result is shown in `MeanData.txt`.
-
-# Getting-and-Cleaning-Data-Course-Project
-# Getting-and-Cleaning-Data-Course-Project
